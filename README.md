@@ -12,10 +12,11 @@
 
 *My Skills*
 
-| HTML     | CSS | Javascript   | Sass | VueJs | NuxtJs | ...  |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |----------- |
+| HTML     | CSS | Javascript   | Sass | VueJs | NuxtJs |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+
 *Competences*
   
 - [x] Curious
 - [x] Studious
--  [x] ...
+- [x] ...
