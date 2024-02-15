@@ -8,11 +8,12 @@
 
 - 🔭 I’m currently working on my projects & portfolio.
 - 💻 Former [BeCode student](https://github.com/becodeorg).
-- 🌱 I’m currently learning at [Sirius School](https://github.com/sirius-school).
+- 💻 Former learning at [Sirius School](https://github.com/sirius-school).
+- 🌱 I’m currently student [UI/UX](https://www.ifapme.be/centre-ifapme-liege-huy-verviers).
 
 *My Skills*
 
-| HTML     | CSS | Javascript   | Sass | VueJs | NuxtJs |
+| HTML     | CSS | Javascript   | Sass | VueJs | NuxtJs | Figma | Photoshop | Illustrator
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
 *Competences*
