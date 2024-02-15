@@ -13,8 +13,9 @@
 
 *My Skills*
 
-| HTML     | CSS | Javascript   | Sass | VueJs | NuxtJs | Figma | Photoshop | Illustrator
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| HTML     | CSS | Javascript   | Sass | VueJs 
+| NuxtJs | Figma | Photoshop | Illustrator
+
 
 *Competences*
   
